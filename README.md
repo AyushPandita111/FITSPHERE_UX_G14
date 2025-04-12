@@ -9,6 +9,7 @@ This project was developed as the final submission for our UI/UX Design course u
 Personalized workout routines based on user goals (weight loss, muscle gain, flexibility, etc.)
 
 🍎 Diet Tracker
+
 Meal planning, calorie tracking, and nutrition tips tailored to dietary preferences (vegan, keto, etc.)
 
 💧 Lifestyle Tips
@@ -17,7 +18,7 @@ Sleep tracking, hydration reminders, mindfulness practices, and productivity hab
 📊 Progress Dashboard
 Clean UI for visualizing progress with graphs and statistics
 
-🎨 User-Centric Design
+🎨 User-Centric Design 
 Minimalistic, modern interface focused on accessibility, responsiveness, and ease of navigation
 
 💡 What We Learned from the UI/UX Course
